@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/6045c95d-e272-4985-a0ee-4aea0858edef/resourceGroups/cov/providers/Microsoft.Storage/storageAccounts/cov",
+    "appService.deploySubpath": "."
+}
